@@ -1,4 +1,4 @@
-# bue-technomart
+# Vue-technomart
 
 ## Project setup
 ```
